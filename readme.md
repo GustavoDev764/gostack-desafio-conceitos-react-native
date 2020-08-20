@@ -26,6 +26,7 @@ npm i
 
 # Executar o servidor
 npm run android ou npm run ios
+```
 
 ## :memo: Licença
 
